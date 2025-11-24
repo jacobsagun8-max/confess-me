@@ -58,6 +58,4 @@ Contributions to Confess Website are welcome! If you'd like to contribute, pleas
 - Make your changes and test thoroughly.
 - Submit a pull request, describing the changes you've made.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+## Lic
